@@ -12,8 +12,17 @@ bool
 complex
 '''
 
+complex(2,3)
+
 a = 123
 print(isinstance(a,int))
+
+
+var1 = 1
+var2 = 2
+del var1
+#print(var1)
+print(var2)
 
 
 
