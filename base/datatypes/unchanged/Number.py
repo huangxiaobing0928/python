@@ -24,5 +24,15 @@ del var1
 #print(var1)
 print(var2)
 
+import math
+print(abs(-88))
+print(math.ceil(6.2))
+print(math.floor(8.9))
+print(pow(2,3))    #like 2**3
+print(math.log10(100))
+print(\n)
 
+'''
+%s %d %f
+'''
 
