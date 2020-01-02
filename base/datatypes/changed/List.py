@@ -16,5 +16,19 @@ print(list2)
 
 print(list2[0::2])
 
+#delete some elements of the list
+mylist = ["love","family","life","work"]
+del mylist[3]
+print(mylist)
+
+print(len([1,2,3]))
+print([1,2,3] + [4,5,6])
+print(["hello","world"] * 4)
+print(2 in [1,2,3])
+
+for x in [1,2,3]:
+    print(x,end="")
+
+
 
 
